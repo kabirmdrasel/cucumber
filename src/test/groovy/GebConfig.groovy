@@ -5,5 +5,5 @@ import java.util.logging.Level
 driver = {	
 	RemoteWebDriver driver = new FirefoxDriver()
 	driver.setLogLevel(Level.WARNING)
-	driver
+	driver rasel
 }
